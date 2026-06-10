@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:quick_alerts/quick_alerts.dart';
+import 'package:quick_app_alert/quick_app_alert.dart';
 
 void main() {
   testWidgets('QuickAlert shows default title and message correctly', (WidgetTester tester) async {

@@ -37,12 +37,11 @@ Designed with sleek aesthetics, fluid entrance/exit animations, full support for
 
 ## Installation
 
-Add `quick_alerts` to your `pubspec.yaml` file:
+Add `quick_app_alert` to your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  quick_alerts:
-    path: ./quick_alerts  # Or use the published version once uploaded
+  quick_app_alert: ^1.0.0
 ```
 
 Run command:
@@ -56,7 +55,7 @@ flutter pub get
 
 Import the package in your Dart code:
 ```dart
-import 'package:quick_alerts/quick_alerts.dart';
+import 'package:quick_app_alert/quick_app_alert.dart';
 ```
 
 ### 1. Show Standard Alert Dialog

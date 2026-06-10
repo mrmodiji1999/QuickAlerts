@@ -31,7 +31,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  quick_alerts:
+  quick_app_alert:
     path: ../
 
   # The following adds the Cupertino Icons font to your application.
